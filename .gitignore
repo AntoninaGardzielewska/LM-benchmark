@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# VS code
+.vscode/
+
+# Notes
+benchmark idea.xlsx
+ideas.md
