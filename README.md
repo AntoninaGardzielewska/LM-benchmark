@@ -1,4 +1,4 @@
-# Can my granda beat LM?
+# Can my grandma beat LM?
 
 ## Benchmark Mission Statement
 
